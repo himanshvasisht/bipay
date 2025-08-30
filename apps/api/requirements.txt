@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+motor
+python-jose
+cryptography
+redis
+kafka-python
+boto3
+weasyprint
+pytest
+httpx
+bandit
+ruff
+isort
+mypy
